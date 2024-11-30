@@ -3,10 +3,10 @@
   <div>
     <h1>에러 페이지입니다.</h1>
     <div class="link">
-      <nuxt-link to="/">PC 메인 화면으로 이동</nuxt-link>
+      <NuxtLink to="/">PC 메인 화면으로 이동</NuxtLink>
     </div>
     <div class="link">
-      <nuxt-link to="/mobile">모바일 메인 화면으로 이동</nuxt-link>
+      <NuxtLink to="/mobile">모바일 메인 화면으로 이동</NuxtLink>
     </div>
   </div>
 </template>
