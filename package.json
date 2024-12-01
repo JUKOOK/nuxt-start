@@ -12,7 +12,10 @@
   "dependencies": {
     "nuxt": "^3.14.1592",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "chart.js": "4.4.6",
+    "chartjs-plugin-annotation": "3.1.0",
+    "chartjs-plugin-datalabels": "2.2.0"
   },
   "devDependencies": {
     "sass-embedded": "^1.81.0"

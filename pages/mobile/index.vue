@@ -1,16 +1,16 @@
 <template>
   <div>
     <h2>Root URL(모바일) 입니다.</h2>
-    <ELChart />
+    <Chart1 />
   </div>
 </template>
 
 <script>
-import ELChart from "@/components/chart/ELChart.vue";
+import Chart1 from "@/modules/chart/Chart1.vue";
 
 export default {
   components: {
-    ELChart,
+    Chart1,
   },
   setup(props) {
     definePageMeta({

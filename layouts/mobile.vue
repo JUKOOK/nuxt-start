@@ -29,7 +29,7 @@ export default {
 
 <style lang="scss" scoped>
 .mobile-device-container {
-  width: 400px;
+  width: 432px;
   height: 720px;
   background-color: #fff;
   border-radius: 20px;
