@@ -31,6 +31,7 @@ export default {
 .mobile-device-container {
   width: 432px;
   height: 720px;
+  overflow-y: auto;
   background-color: #fff;
   border-radius: 20px;
   box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
